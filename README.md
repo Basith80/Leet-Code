@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Basith80/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Basith80/Leet-Code/tree/master/0541-reverse-string-ii) |
+| [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Basith80/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Basith80/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -44,17 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Basith80/Leet-Code/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Basith80/Leet-Code/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Basith80/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Basith80/Leet-Code/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Basith80/Leet-Code/tree/master/1505-create-target-array-in-the-given-order) |
 ## Backtracking
 |  |
