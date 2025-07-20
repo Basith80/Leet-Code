@@ -19,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
