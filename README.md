@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Basith80/Leet-Code/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Basith80/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Basith80/Leet-Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Basith80/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Basith80/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Basith80/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Basith80/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Basith80/Leet-Code/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Basith80/Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Basith80/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Basith80/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Basith80/Leet-Code/tree/master/0070-climbing-stairs) |
