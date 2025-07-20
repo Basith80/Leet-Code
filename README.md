@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Basith80/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Basith80/Leet-Code/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Basith80/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Basith80/Leet-Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Basith80/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Basith80/Leet-Code/tree/master/0342-power-of-four) |
@@ -106,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Basith80/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Basith80/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Basith80/Leet-Code/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Basith80/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Basith80/Leet-Code/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Basith80/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
