@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Basith80/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Basith80/Leet-Code/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Basith80/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Basith80/Leet-Code/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Basith80/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Basith80/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [1899-count-items-matching-a-rule](https://github.com/Basith80/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Basith80/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Basith80/Leet-Code/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Basith80/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Basith80/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Basith80/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Basith80/Leet-Code/tree/master/0231-power-of-two) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Basith80/Leet-Code/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Basith80/Leet-Code/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Basith80/Leet-Code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Basith80/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Basith80/Leet-Code/tree/master/0342-power-of-four) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Basith80/Leet-Code/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Basith80/Leet-Code/tree/master/1505-create-target-array-in-the-given-order) |
