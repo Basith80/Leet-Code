@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Basith80/Leet-Code/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
