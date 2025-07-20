@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Basith80/Leet-Code/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/Basith80/Leet-Code/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Basith80/Leet-Code/tree/master/1677-matrix-diagonal-sum) |
+| [1833-find-the-highest-altitude](https://github.com/Basith80/Leet-Code/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Basith80/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
 ## Math
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Basith80/Leet-Code/tree/master/0367-valid-perfect-square) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Basith80/Leet-Code/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
