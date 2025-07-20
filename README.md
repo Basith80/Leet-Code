@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Basith80/Leet-Code/tree/master/0018-4sum) |
 | [0283-move-zeroes](https://github.com/Basith80/Leet-Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Basith80/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Basith80/Leet-Code/tree/master/0541-reverse-string-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Basith80/Leet-Code/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Basith80/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Basith80/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Basith80/Leet-Code/tree/master/0018-4sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
