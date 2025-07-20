@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Basith80/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Basith80/Leet-Code/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Basith80/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Basith80/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Basith80/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Basith80/Leet-Code/tree/master/0287-find-the-duplicate-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Basith80/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Basith80/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Basith80/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Basith80/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Basith80/Leet-Code/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Basith80/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Basith80/Leet-Code/tree/master/0067-add-binary) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Basith80/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Basith80/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Basith80/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
