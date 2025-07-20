@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Basith80/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Basith80/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Basith80/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Basith80/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Basith80/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Basith80/Leet-Code/tree/master/0344-reverse-string) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Basith80/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Basith80/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Basith80/Leet-Code/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/Basith80/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Basith80/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Basith80/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [1899-count-items-matching-a-rule](https://github.com/Basith80/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
@@ -151,5 +153,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Basith80/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/Basith80/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
