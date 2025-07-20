@@ -7,7 +7,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Basith80/Leet-Code/tree/master/0005-longest-palindromic-substring) |
-| [0061-rotate-list](https://github.com/Basith80/Leet-Code/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/Basith80/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Basith80/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Basith80/Leet-Code/tree/master/0344-reverse-string) |
@@ -52,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Basith80/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Basith80/Leet-Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Basith80/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Basith80/Leet-Code/tree/master/0342-power-of-four) |
@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Basith80/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Basith80/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Basith80/Leet-Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Basith80/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Basith80/Leet-Code/tree/master/0342-power-of-four) |
@@ -142,5 +143,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Basith80/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
-| [0061-rotate-list](https://github.com/Basith80/Leet-Code/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
