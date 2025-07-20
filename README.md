@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/Basith80/Leet-Code/tree/master/0541-reverse-string-ii) |
+| [3396-valid-word](https://github.com/Basith80/Leet-Code/tree/master/3396-valid-word) |
 ## Array
 |  |
 | ------- |
