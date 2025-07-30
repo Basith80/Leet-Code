@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Basith80/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Basith80/Leet-Code/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Basith80/Leet-Code/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Basith80/Leet-Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Basith80/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Basith80/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Basith80/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Basith80/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Basith80/Leet-Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Basith80/Leet-Code/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Basith80/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Basith80/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Basith80/Leet-Code/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
