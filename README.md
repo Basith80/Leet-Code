@@ -250,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Basith80/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Basith80/Leet-Code/tree/master/0169-majority-element) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Basith80/Leet-Code/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
