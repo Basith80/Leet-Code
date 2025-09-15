@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Basith80/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Basith80/Leet-Code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Basith80/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Basith80/Leet-Code/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Basith80/Leet-Code/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Basith80/Leet-Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Basith80/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Basith80/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Basith80/Leet-Code/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Basith80/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
