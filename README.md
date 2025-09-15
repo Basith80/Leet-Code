@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Basith80/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Basith80/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Basith80/Leet-Code/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Basith80/Leet-Code/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Basith80/Leet-Code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Basith80/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Basith80/Leet-Code/tree/master/0342-power-of-four) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Basith80/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Basith80/Leet-Code/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Basith80/Leet-Code/tree/master/0190-reverse-bits) |
 ## Graph
 |  |
 | ------- |
