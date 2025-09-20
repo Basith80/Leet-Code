@@ -11,7 +11,25 @@
 class Solution {
      ArrayList<Integer> list = new ArrayList<>();
     public ListNode reverseList(ListNode head) {
-        if(head == null){
+        if(head == null) return null;
+      ListNode pre = null;
+      ListNode pres = head;
+      ListNode after = pres.next;
+
+    while(pres != null){
+        pres.next = pre;
+        pre = pres;
+        pres = after;
+        if(after != null){
+            after = after.next;
+        }
+    }
+        return pre;
+    }
+}
+
+/**
+  if(head == null){
             return head;
         }
     ListNode pre = null;
@@ -28,8 +46,7 @@ class Solution {
     }
 
     return pre;
-    }
-}
+     */
 
 
 /*
