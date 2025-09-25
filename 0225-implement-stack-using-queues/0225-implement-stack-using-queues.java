@@ -1,49 +1,56 @@
 class MyStack {
-    Queue<Integer> q;
-    Stack<Integer> s1;
-    Stack<Integer> s2;
-
+    Queue<Integer> q1;
+    Queue<Integer> q2;
+int size = 0;
     public MyStack() {
-        q = new LinkedList<>();
-        s1 = new Stack<>();
-        s2 = new Stack<>();
+        q1 = new LinkedList<>();
+        q2 = new LinkedList<>();
+        
     }
 
     public void push(int x) {
-        q.add(x);
+            q1.add(x);
+            size++;
     }
 
     public int pop() {
-        while (!q.isEmpty()) {
-            s1.push(q.remove());
-        }
-        int ans = s1.pop();
-        while (!s1.isEmpty()) {
-            s2.push(s1.pop());
-        }
-        while (!s2.isEmpty()) {
-            q.add(s2.pop());
-        }
-        return ans;
+        int count = 1;
+        int popped = 0;
+            while(!q1.isEmpty()){
+                if(count != size){
+                    q2.add(q1.remove());
+                    count++;
+                }else{
+                    popped = q1.remove();
+                }
+            }
+            while(!q2.isEmpty()){
+                q1.add(q2.remove());
+            }
+            size--;
+            return popped;
     }
 
     public int top() {
-
-        while (!q.isEmpty()) {
-            s1.push(q.remove());
-        }
-        int ans = s1.peek();
-        while (!s1.isEmpty()) {
-            s2.push(s1.pop());
-        }
-        while (!s2.isEmpty()) {
-            q.add(s2.pop());
-        }
-        return ans;
+int count = 1;
+        int popped = 0;
+            while(!q1.isEmpty()){
+                if(count != size){
+                    q2.add(q1.remove());
+                    count++;
+                }else{
+                    popped = q1.remove();
+                    q2.add(popped);
+                }
+            }
+            while(!q2.isEmpty()){
+                q1.add(q2.remove());
+            }
+            return popped;
     }
 
     public boolean empty() {
-        return q.isEmpty();
+     return q1.isEmpty();
     }
 }
 
