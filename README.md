@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Basith80/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [1899-count-items-matching-a-rule](https://github.com/Basith80/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Basith80/Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2470-removing-stars-from-a-string](https://github.com/Basith80/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
 | [3396-valid-word](https://github.com/Basith80/Leet-Code/tree/master/3396-valid-word) |
 ## Array
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Basith80/Leet-Code/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Basith80/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Basith80/Leet-Code/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/Basith80/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Basith80/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Basith80/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Basith80/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/Basith80/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
