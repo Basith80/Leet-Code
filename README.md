@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Basith80/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Basith80/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Basith80/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1651-shuffle-string](https://github.com/Basith80/Leet-Code/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/Basith80/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Basith80/Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2470-removing-stars-from-a-string](https://github.com/Basith80/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Basith80/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Basith80/Leet-Code/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Basith80/Leet-Code/tree/master/1603-running-sum-of-1d-array) |
+| [1651-shuffle-string](https://github.com/Basith80/Leet-Code/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Basith80/Leet-Code/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Basith80/Leet-Code/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Basith80/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
