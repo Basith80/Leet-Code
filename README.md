@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Basith80/Leet-Code/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/Basith80/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Basith80/Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Basith80/Leet-Code/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Basith80/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
 | [3396-valid-word](https://github.com/Basith80/Leet-Code/tree/master/3396-valid-word) |
 ## Array
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Basith80/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/Basith80/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Basith80/Leet-Code/tree/master/2058-concatenation-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Basith80/Leet-Code/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
 | ------- |
