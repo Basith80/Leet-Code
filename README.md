@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Basith80/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/Basith80/Leet-Code/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Basith80/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Basith80/Leet-Code/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Basith80/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Basith80/Leet-Code/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Basith80/Leet-Code/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Basith80/Leet-Code/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Basith80/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Basith80/Leet-Code/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Basith80/Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Basith80/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Basith80/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Basith80/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/Basith80/Leet-Code/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
