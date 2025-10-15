@@ -1,25 +1,23 @@
 class Solution {
     public String mergeAlternately(String a, String b) {
-        int i =0;
-        int j = 0;
-        String ans = "";
-        while( i < a.length() && j < b.length()){
-            ans += a.charAt(i++);
-            ans += b.charAt(j++);
-            
+        int i = 0;
+        StringBuilder sb = new StringBuilder();
+        while (i < a.length() && i < b.length()) {
+            sb.append(a.charAt(i));
+            sb.append(b.charAt(i));
+            i++;
         }
-
-        if(i < a.length()){
-            while(i<a.length()){
-                ans += a.charAt(i++);
+        if (i < a.length()) {
+            while (i < a.length()) {
+                sb.append(a.charAt(i++));
             }
         }
 
-        if( j < b.length()){
-            while(j < b.length()){
-                ans += b.charAt(j++);
+        if (i < b.length()) {
+            while (i < b.length()) {
+                sb.append(b.charAt(i++));
             }
         }
-        return ans;
+        return sb.toString();
     }
 }
