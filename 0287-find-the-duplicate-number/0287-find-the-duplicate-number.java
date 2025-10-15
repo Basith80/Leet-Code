@@ -3,17 +3,19 @@ class Solution {
         int in = 0;
 
         while(in < arr.length){
-            int correct = arr[in]-1;
-            if(arr[correct] != arr[in]){
-                int temp = arr[in];
-                arr[in] = arr[correct];
-                arr[correct] = temp;
+            int c = arr[in]-1;
+
+            if(arr[c] != arr[in]){
+                int t = arr[c];
+                arr[c] = arr[in];
+                arr[in] = t;
             }else{
                 in++;
             }
         }
-        for(int i=0 ; i<arr.length; i++){
-            if(i != arr[i]-1){
+
+        for(int i =0 ;i < arr.length; i++){
+            if(arr[i]-1 != i){
                 return arr[i];
             }
         }
