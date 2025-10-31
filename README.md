@@ -370,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Basith80/Leet-Code/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Basith80/Leet-Code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
