@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Basith80/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Basith80/Leet-Code/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Basith80/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
+| [1920-build-array-from-permutation](https://github.com/Basith80/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/Basith80/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Basith80/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Basith80/Leet-Code/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Basith80/Leet-Code/tree/master/1505-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/Basith80/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/Basith80/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Basith80/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Basith80/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
