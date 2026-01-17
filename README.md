@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Basith80/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1470-shuffle-the-array](https://github.com/Basith80/Leet-Code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Basith80/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Basith80/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
