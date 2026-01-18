@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Basith80/Leet-Code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Basith80/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Basith80/Leet-Code/tree/master/0541-reverse-string-ii) |
+| [0832-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Basith80/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Basith80/Leet-Code/tree/master/1894-merge-strings-alternately) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Basith80/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Basith80/Leet-Code/tree/master/0766-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Basith80/Leet-Code/tree/master/0792-binary-search) |
+| [0832-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Basith80/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Basith80/Leet-Code/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Basith80/Leet-Code/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Basith80/Leet-Code/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Basith80/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Basith80/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Basith80/Leet-Code/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Basith80/Leet-Code/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Basith80/Leet-Code/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Basith80/Leet-Code/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Basith80/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
