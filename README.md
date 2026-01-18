@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Basith80/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Basith80/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Basith80/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Basith80/Leet-Code/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Basith80/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Basith80/Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -323,11 +325,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Basith80/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Basith80/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Basith80/Leet-Code/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Basith80/Leet-Code/tree/master/0169-majority-element) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Basith80/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Basith80/Leet-Code/tree/master/1823-determine-if-string-halves-are-alike) |
