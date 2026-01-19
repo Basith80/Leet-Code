@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Basith80/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Basith80/Leet-Code/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Basith80/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Basith80/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Basith80/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Basith80/Leet-Code/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Basith80/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Basith80/Leet-Code/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Basith80/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Basith80/Leet-Code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Basith80/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Basith80/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
