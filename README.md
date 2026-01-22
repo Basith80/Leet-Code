@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Basith80/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Basith80/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Basith80/Leet-Code/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Basith80/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Basith80/Leet-Code/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Basith80/Leet-Code/tree/master/0066-plus-one) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Basith80/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Basith80/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Basith80/Leet-Code/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Basith80/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Basith80/Leet-Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Basith80/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Basith80/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Basith80/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Basith80/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Basith80/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Basith80/Leet-Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Basith80/Leet-Code/tree/master/0191-number-of-1-bits) |
