@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Basith80/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Basith80/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Basith80/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Basith80/Leet-Code/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Basith80/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Basith80/Leet-Code/tree/master/0441-arranging-coins) |
 | [0989-add-to-array-form-of-integer](https://github.com/Basith80/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Basith80/Leet-Code/tree/master/1013-fibonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Basith80/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Basith80/Leet-Code/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Basith80/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Basith80/Leet-Code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Basith80/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Basith80/Leet-Code/tree/master/0055-jump-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Basith80/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Basith80/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Divide and Conquer
 |  |
 | ------- |
