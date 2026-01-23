@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Basith80/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/Basith80/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Basith80/Leet-Code/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Basith80/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Basith80/Leet-Code/tree/master/0766-toeplitz-matrix) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Basith80/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Basith80/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Basith80/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Basith80/Leet-Code/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Basith80/Leet-Code/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/Basith80/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Basith80/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
