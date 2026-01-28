@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Basith80/Leet-Code/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Basith80/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Basith80/Leet-Code/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Basith80/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Basith80/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Basith80/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Basith80/Leet-Code/tree/master/0742-to-lower-case) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Basith80/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Basith80/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Basith80/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Basith80/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Basith80/Leet-Code/tree/master/0645-set-mismatch) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Basith80/Leet-Code/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Basith80/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Basith80/Leet-Code/tree/master/1512-number-of-good-pairs) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Basith80/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Basith80/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Basith80/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Interactive
 |  |
 | ------- |
