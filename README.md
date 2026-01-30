@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Basith80/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Basith80/Leet-Code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Basith80/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Basith80/Leet-Code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Basith80/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0832-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Basith80/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Basith80/Leet-Code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Basith80/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Basith80/Leet-Code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Basith80/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Basith80/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Basith80/Leet-Code/tree/master/0742-to-lower-case) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Basith80/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Basith80/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Basith80/Leet-Code/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Basith80/Leet-Code/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Basith80/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
