@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Basith80/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Basith80/Leet-Code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Basith80/Leet-Code/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Basith80/Leet-Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Basith80/Leet-Code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Basith80/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Basith80/Leet-Code/tree/master/0342-power-of-four) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Basith80/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Basith80/Leet-Code/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Basith80/Leet-Code/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Basith80/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Basith80/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0832-flipping-an-image) |
@@ -487,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Basith80/Leet-Code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Basith80/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Basith80/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Basith80/Leet-Code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
