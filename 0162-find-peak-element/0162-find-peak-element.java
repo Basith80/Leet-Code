@@ -1,6 +1,6 @@
 class Solution {
     public int findPeakElement(int[] arr) {
-         int s = 0;
+        int s = 0;
         int e = arr.length - 1;
         while (s != e) {
             int m = s + (e - s) / 2;
