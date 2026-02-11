@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Basith80/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Basith80/Leet-Code/tree/master/1894-merge-strings-alternately) |
+| [2396-strictly-palindromic-number](https://github.com/Basith80/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Basith80/Leet-Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Basith80/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/Basith80/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Basith80/Leet-Code/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Basith80/Leet-Code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -494,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Basith80/Leet-Code/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Basith80/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
