@@ -1,27 +1,12 @@
-public class Solution {
-    public int[] twoSum(int[] numbers, int target) {
-        
-            int len = numbers.length;
-
-        int[] result = new int[2] ;
-        int number1 = 0;
-        int sum = 0;
-
-        for (int i = 0; i < len; i++) {
-            number1 = numbers[i];
-
-            for(int j = i+1; j < len; j++)
-            {
-
-                sum = number1+numbers[j];       
-                if(sum == target)
-                {
-                    result[0]=i;
-                    result[1]=j;
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        for(int i=0; i<nums.length-1; i++){
+            for(int j=i+1; j<nums.length; j++){
+                if(nums[i] + nums[j] == target){
+                    return new int[]{i,j};
                 }
             }
-        
         }
-        return result;
+        return new int[]{-1,-1};
     }
 }
