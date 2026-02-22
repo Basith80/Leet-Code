@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Basith80/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Basith80/Leet-Code/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Basith80/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Basith80/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Basith80/Leet-Code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Basith80/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Basith80/Leet-Code/tree/master/0441-arranging-coins) |
+| [0877-stone-game](https://github.com/Basith80/Leet-Code/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Basith80/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Basith80/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Basith80/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Basith80/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Basith80/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Basith80/Leet-Code/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Basith80/Leet-Code/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Basith80/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -500,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Basith80/Leet-Code/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Basith80/Leet-Code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
