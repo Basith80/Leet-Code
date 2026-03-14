@@ -1,19 +1,12 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        int left =0 ; 
-        int right = numbers.length-1;
-        while(left < right){
-            int sum = numbers[left]+numbers[right];
-            if(sum == target){
-                return new int[]{left+1 , right+1};
-            }
-            else if(sum < target){
-                left++;
-            }
-            else{
-                right--;
+       for(int l = 0; l<numbers.length-1; l++){
+        for(int r=l+1; r<numbers.length; r++){
+            if(numbers[l] + numbers[r] == target){
+                return new int[]{l+1, r+1};
             }
         }
-    return new int[]{-1,-1};
+       }
+       return new int[]{-1,-1};
     }
 }
