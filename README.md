@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Basith80/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Basith80/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
+| [1004-max-consecutive-ones-iii](https://github.com/Basith80/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Basith80/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Basith80/Leet-Code/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Basith80/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -333,10 +334,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Basith80/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Basith80/Leet-Code/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Basith80/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Basith80/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Basith80/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Basith80/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Basith80/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Basith80/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Basith80/Leet-Code/tree/master/1603-running-sum-of-1d-array) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Basith80/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Basith80/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Basith80/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
