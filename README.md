@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Basith80/Leet-Code/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Basith80/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Basith80/Leet-Code/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/Basith80/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/Basith80/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Basith80/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Basith80/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Basith80/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Basith80/Leet-Code/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/Basith80/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Basith80/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Basith80/Leet-Code/tree/master/1512-number-of-good-pairs) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Basith80/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Basith80/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Basith80/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Basith80/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
