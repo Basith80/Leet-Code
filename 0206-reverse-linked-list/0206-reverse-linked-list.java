@@ -9,54 +9,21 @@
  * }
  */
 class Solution {
-     ArrayList<Integer> list = new ArrayList<>();
     public ListNode reverseList(ListNode head) {
-        if(head == null) return null;
-      ListNode pre = null;
-      ListNode pres = head;
-      ListNode after = pres.next;
-
-    while(pres != null){
-        pres.next = pre;
-        pre = pres;
-        pres = after;
-        if(after != null){
-            after = after.next;
+        if(head == null){
+            return null;
         }
-    }
+        ListNode pre = null;
+        ListNode pres = head;
+        ListNode pos = head.next;
+        while(pres != null){
+            pres.next = pre;
+            pre = pres;
+            pres = pos;
+            if(pos != null){
+                pos = pos.next;
+            }
+        }
         return pre;
     }
 }
-
-/**
-  if(head == null){
-            return head;
-        }
-    ListNode pre = null;
-    ListNode pres = head;
-    ListNode after = pres.next;
-
-    while(pres != null){
-        pres.next = pre;
-        pre = pres;
-        pres = after;
-        if(after != null){
-            after = after.next;
-        }
-    }
-
-    return pre;
-     */
-
-
-/*
-ListNode prev = null;
-        ListNode curr = head; 
-        while (curr != null) {
-            ListNode nextTemp = curr.next; 
-            curr.next = prev; 
-            prev = curr; 
-            curr = nextTemp;
-        }
-        return prev; 
-*/
