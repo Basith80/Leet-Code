@@ -1,23 +1,9 @@
 class Solution {
-    public int missingNumber(int[] arr) {
-        int i = 0;
-        while( i < arr.length){
-            int correct = arr[i];
-            if(arr[i] < arr.length && arr[i] != arr[correct]){
-                int temp = arr[i];
-                arr[i] = arr[correct];
-                arr[correct] = temp;
-            }else{
-                i++;
-            }
+    public int missingNumber(int[] nums) {
+        int sum = 0;
+        for(int i=0; i<nums.length; i++){
+            sum+=nums[i];
         }
-
-        for(int j =0 ; j< arr.length; j++){
-            if( j != arr[j]){
-                return j;
-            }
-        }
-
-        return arr.length;
+        return (nums.length *( (nums.length)+ 1))/2 -(sum);
     }
 }
